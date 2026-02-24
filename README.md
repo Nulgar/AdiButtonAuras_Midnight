@@ -1,0 +1,1 @@
+To download a ZIP file containing the addon files, ready to be put into Interface\AddOns, [click here](https://github.com/Nulgar/AdiButtonAuras_Midnight/releases/download/download/AdiButtonAuras_Midnight.zip)
